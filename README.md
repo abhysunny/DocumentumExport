@@ -1,2 +1,2 @@
 # DocumentumExport
-Documentum Export utility written using DFC
+Documentum Export utility written in java using DFC library
